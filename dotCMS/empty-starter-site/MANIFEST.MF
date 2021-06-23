@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Plugin-Name: Empty Starter Site
+Plugin-Version: 1
+Author: Willowtree, LLC
