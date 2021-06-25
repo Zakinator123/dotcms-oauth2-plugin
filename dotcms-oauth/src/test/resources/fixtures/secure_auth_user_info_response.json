@@ -1,0 +1,14 @@
+{
+  "idp": "SecureAuth205",
+  "auth_time": "1604524320",
+  "amr": "password",
+  "sub": "FAIEQZ",
+  "name": "FAIEQZ",
+  "family_name": "Faieq",
+  "given_name": "Zakey",
+  "GroupMembership": "All Camden HQ Employees,Camden Headquarters,CTX_AnyDevice,dotcms_prodnp_authoring_CMS Administrator,dotcms_prodnp_delivery_CMS Administrator,Github Access,Microsoft M365 E3,PS_ResourcePool,Solarwinds-ReadAccess,WS1 - Mobile - American Water - HQO,WS1 - Mobile - TransLoc - TransLoc Rider",
+  "DName": "Zakey Faieq",
+  "EmpID": "110055376",
+  "Comp": "American Water Service Co Inc",
+  "UPN": "Zakey.Faieq@amwater.com"
+}

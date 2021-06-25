@@ -1,0 +1,22 @@
+group = 'com.amwater'
+
+subprojects {
+    repositories {
+        jcenter()
+        mavenCentral()
+        maven {
+            url = uri('https://repo.dotcms.com/artifactory/libs-release')
+            metadataSources {
+                artifact()
+                mavenPom()
+            }
+        }
+    }
+}
+
+tasks {
+    wrapper {
+        gradleVersion = '6.5'
+        distributionType = Wrapper.DistributionType.ALL
+    }
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.dotcms.osgi.oauth.configuration.PluginConfigurator</OriginalElement>
+  <nodes>
+    <node x="1281.4838541666666" y="89.0">com.dotcms.osgi.oauth.usecases.LogoutUseCase</node>
+    <node x="0.0" y="89.0">com.dotcms.osgi.oauth.configuration.OAuthProviderConnectionDetailsResolver</node>
+    <node x="1019.5505208333332" y="89.0">com.dotcms.osgi.oauth.usecases.AuthenticationUseCase</node>
+    <node x="1011.7354166666667" y="168.0">com.dotcms.osgi.oauth.interceptor.OAuthCallbackInterceptor</node>
+    <node x="1435.4838541666666" y="89.0">com.dotcms.osgi.oauth.configuration.GroupsToRolesMapperFactory</node>
+    <node x="260.70052083333303" y="0.0">com.dotcms.osgi.oauth.provider.OAuthProviderConnectionDetails</node>
+    <node x="1248.0854166666668" y="168.0">com.dotcms.osgi.oauth.interceptor.LogoutOAuthInterceptor</node>
+    <node x="936.3489583333335" y="0.0">com.dotcms.osgi.oauth.dotcms.DotCmsFacade</node>
+    <node x="586.4348958333333" y="0.0">com.dotcms.osgi.oauth.provider.OAuthProvider</node>
+    <node x="68.25" y="168.0">com.dotcms.osgi.oauth.configuration.OAuthProviderConnectionDetailsResolverFactory</node>
+    <node x="1462.5489583333333" y="0.0">com.dotcms.osgi.oauth.mappers.GroupsToRolesMapper</node>
+    <node x="435.24999999999994" y="89.0">com.dotcms.osgi.oauth.configuration.OAuthProviderFactory</node>
+    <node x="725.7270833333334" y="168.0">com.dotcms.osgi.oauth.interceptor.LoginRequiredOAuthInterceptor</node>
+    <node x="888.5531249999999" y="337.0">com.dotcms.osgi.oauth.configuration.PluginConfigurator</node>
+    <node x="636.25" y="89.0">com.dotcms.osgi.oauth.usecases.AuthenticationRequiredUseCase</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.8526252983293556" x="828.0" y="183.0" />
+  <SelectedNodes>
+    <node>com.dotcms.osgi.oauth.configuration.PluginConfigurator</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
